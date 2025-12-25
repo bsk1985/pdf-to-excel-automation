@@ -15,5 +15,5 @@ I built this Python-based automation tool to:
 * PDFPlumber (Text extraction)
 
 ## 📸 Results
-![PDF Input](./data.pdf)
-![Excel Output](./Automation_after_conversion.png)
+![PDF Input](data.pdf)
+![Excel Output](Automation_after_conversion.png)
